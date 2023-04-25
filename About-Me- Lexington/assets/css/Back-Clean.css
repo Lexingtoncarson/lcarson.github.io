@@ -1,10 +1,10 @@
 .Back-clean {
-    color: #313437;
-    background-color: #fff;
+    color: #6495ED;
+    background-color: #F0FFFF;
 }
 
 .Back-clean p {
-    color: #7d8285;
+    color: #DC143C;
 }
 
 .Back-clean h2 {
@@ -18,7 +18,7 @@
     .Back-clean h2 {
         margin-bottom: 25px;
         padding-top: 25px;
-        font-size: 24px;
+        font-size: 30px;
     }
 }
 
@@ -51,9 +51,9 @@
 .Back-clean .item .title {
     text-transform: uppercase;
     font-weight: bold;
-    color: #d0d0d0;
+    color: #6a5acd;
     letter-spacing: 2px;
-    font-size: 13px;
+    font-size: 20px;
 }
 
 .Back-clean .item .description {
@@ -67,8 +67,8 @@
 }
 
 .Back-clean .social {
-    font-size: 18px;
-    color: #a2a8ae;
+    font-size: 20px;
+    color: #8FBC8F;
 }
 
 .Back-clean .social a {
