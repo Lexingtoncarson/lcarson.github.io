@@ -6,6 +6,6 @@
 
 - [X] Footer
 - [X] Social Media Icons
-- [ ] Work History
-- [ ] Images and Fonts
+- [X] Work History
+- [X] Images and Fonts
 
