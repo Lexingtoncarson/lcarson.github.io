@@ -7,5 +7,5 @@
 - [X] Footer
 - [X] Social Media Icons
 - [ ] Work History
-- [ ] Images 
+- [ ] Images and Fonts
 
