@@ -1,4 +1,4 @@
-# 🌐 Lexingto Carson
+# 🌐 Lexington Carson
 
 💕 The project is for beginners. For this reason I took care to keep it simple, you can use and share as you wish.
 
